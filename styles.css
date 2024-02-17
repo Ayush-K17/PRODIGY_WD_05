@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  input[type="text"], button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  #weatherInfo {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
